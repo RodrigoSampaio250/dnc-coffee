@@ -1,0 +1,61 @@
+.fundo{
+    background-image: url("/dnc-coffee/assets/images/fundoEspaco.svg");
+    background-size: cover;
+}
+
+.telefone{
+    color: aliceblue;
+    width: 20px;
+}
+
+.face{
+    color: #3b5998;
+    cursor: pointer;
+}
+
+.inst{
+    color: #C13584;
+    cursor: pointer;
+}
+
+.wats{
+    color: #34af23;
+    cursor: pointer;
+}
+
+#caffe{
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 140px;
+}
+
+.texto1{
+    color: rgb(117, 175, 225);
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.areaCompra{
+    display: contents;
+}
+
+.Compra{
+    border-radius: 25px;
+    border-color: green;
+    color: green;
+}
+.Compra:hover{
+    color: azure;
+    background-color: green;
+    border: 0px;
+}
